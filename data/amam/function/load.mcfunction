@@ -1,0 +1,1 @@
+schedule function amam:tick 1t
