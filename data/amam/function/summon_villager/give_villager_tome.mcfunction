@@ -1,0 +1,1 @@
+give @s minecraft:written_book[minecraft:custom_data={amam_summon:1b},minecraft:rarity=epic,minecraft:custom_name={"text":"Villager Tome","color":"gold","bold":true,"italic":true,"shadow_color":[1]}] 1
