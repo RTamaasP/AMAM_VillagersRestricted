@@ -1,3 +1,5 @@
+![Logo](https://raw.githubusercontent.com/RTamaasP/AMAM_VillagersRestricted/refs/heads/main/README%20img/1.png)
+
 # AMAM VillagersRestricted
 
 Tired of villager farming ruining your servers? But still don't want to completely disable them? Want an easy fix?
@@ -6,7 +8,7 @@ Well, you have just found the solution!
 
 AMAM is a simple datapack aiming to bring balance and peace for every smp server. Makes all villagers useless... Unless...
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://raw.githubusercontent.com/RTamaasP/AMAM_VillagersRestricted/refs/heads/main/README%20img/2.png)
 
 ## Core mechanics
 
@@ -24,6 +26,8 @@ AMAM is a simple datapack aiming to bring balance and peace for every smp server
 
 - The item needed for summoning is `minecraft:bread` with the component `minecraft:custom_data={amam_summon:true}`. There is a command which gives you a fancy item with other components too but not anything else is checked besides the these two criteria listed. As long as your item meets these two conditions, it's good to go.
 - There are only 2 functions included and they are pretty self explanatory.
+
+![Logo](https://raw.githubusercontent.com/RTamaasP/AMAM_VillagersRestricted/refs/heads/main/README%20img/3.png)
 
     The `give/villager_stick` will give an item which is usable for villager summoning. Again, this will have a bunch of extra staff set which are not required to be present to fulfil the summoning's conditions.
 
