@@ -29,6 +29,6 @@ AMAM is a simple datapack aiming to bring balance and peace for every smp server
 
 ![Logo](https://raw.githubusercontent.com/RTamaasP/AMAM_VillagersRestricted/refs/heads/main/README%20img/3.png)
 
-The `give/villager_stick` will give an item which is usable for villager summoning. Again, this will have a bunch of extra staff set which are not required to be present to fulfil the summoning's conditions.
+The `give/villager_stick` will give an item which is usable for villager summoning. Again, this will have a bunch of extra stuff set which are not required to be present to fulfil the summoning's conditions.
 
 The `summon/from_villager_stick` is the command that runs when the correct item is consumed. It summons a villager with the necessary tag and removes 1 summoning item from the inventory. Yes, technically you can run this command without having the item but the command is not triggerable in survival without having and using the item.
