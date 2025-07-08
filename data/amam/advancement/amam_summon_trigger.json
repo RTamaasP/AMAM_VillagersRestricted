@@ -17,7 +17,7 @@
 		}
 	},
 	"rewards": {
-		"function": "amam:summon_villager/spawn_from_tome"
+		"function": "amam:summon/villager_from_tome"
 	},
 	"parent": "minecraft:story/root"
 }
