@@ -1,0 +1,1 @@
+give @s minecraft:bread[minecraft:custom_data={amam_summon:1b},minecraft:rarity=epic,minecraft:custom_name={"text":"Villager Stick","color":"gold","bold":true,"italic":true,"shadow_color":[0,0,0,1]},enchantment_glint_override=true,lore=[{"text":"In case you really ARE"},{"text":"desperate to trade"}]] 1

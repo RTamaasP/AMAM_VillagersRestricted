@@ -1,0 +1,21 @@
+{
+    "criteria": {
+        "summon_trigger":{
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "items": [
+                        "minecraft:bread"
+                    ],
+                    "components": {
+                        "minecraft:custom_data": "{amam_summon:true}"
+                    }
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "amam:summon/from_villager_stick"
+    },
+    "parent": "minecraft:story/root"
+}
