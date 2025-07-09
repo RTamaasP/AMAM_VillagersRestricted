@@ -13,7 +13,8 @@ AMAM is a simple datapack aiming to bring balance and peace for every smp server
 ## Core mechanics
 
 - Deletes every villager's offers, who don't have a specific tag
-- You have to consume a specific item to summon a villager WITH said specific tag
+- You have to consume a specific item in order to summon a villager WITH said specific tag
+- These villagers will not have their trades removed thus making them useful
 - There is no native way for obtaining the said item, because it would be hardcoded
 
 ## Benefits
