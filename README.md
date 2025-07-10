@@ -24,7 +24,7 @@ AMAM is a simple datapack aiming to bring balance and peace for every smp server
 - This datapack doesn't remove villagers from your world so it won't ruin the athmosphere by making the villages empty
 - If you make the custom item a rare loot, it will be the most balanced: something which requires a lot of exploring or a big challange and provide a big reward. And with this, villagers still won't be extinct from your world, still allowing mega projects in the late game.
 
-## For server hosts
+## For server admins
 
 - The item needed for summoning is `minecraft:bread` with the component `minecraft:custom_data={amam_summon:true}`. There is a command which gives you a fancy item with other components too but not anything else is checked besides the these two criteria listed. As long as your item meets these two conditions, it's good to go.
 - There are only 2 functions included and they are pretty self explanatory.
