@@ -16,6 +16,7 @@ AMAM is a simple datapack aiming to bring balance and peace for every smp server
 - You have to consume a specific item in order to summon a villager WITH said specific tag
 - These villagers will not have their trades removed thus making them useful
 - There is no native way for obtaining the said item, because it would be hardcoded
+- . . . but stay tuned, I will soon write a separate datapack for it to be obtainable in survival
 
 ## Benefits
 
