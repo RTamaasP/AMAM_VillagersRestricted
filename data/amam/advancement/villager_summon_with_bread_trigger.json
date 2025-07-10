@@ -9,8 +9,7 @@
                     ],
                     "components": {
                         "minecraft:custom_data": "{amam_summon:true}"
-                    },
-                    "count": 4
+                    }
                 }
             }
         }
