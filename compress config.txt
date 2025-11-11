@@ -1,7 +1,7 @@
 _7Z_PATH="C:\Program Files\7-Zip\7z.exe"
 PROJECT_NAME="AMAM VillagersRestricted"
 PROJECT_VERSION="1.0.4"
-OUTPUT_DIRECTORY="../../../../datapacks/Own datapacks/exports/"
+OUTPUT_DIRECTORY="../../../../../../datapacks/Own datapacks/exports/"
 FILES_TO_COMPRESS="./*"
 EXCLUDE_FILES="compress.bat" "compress config.txt" ".git" "README img"
 COMPRESSION_METHOD="zip"

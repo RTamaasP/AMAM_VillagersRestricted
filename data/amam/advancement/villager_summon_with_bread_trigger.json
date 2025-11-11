@@ -15,7 +15,7 @@
         }
     },
     "rewards": {
-        "function": "amam:summon/from_villager_stick"
+        "function": "amam:summon/from_villager_tome"
     },
     "parent": "minecraft:story/root"
 }
