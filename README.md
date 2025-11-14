@@ -10,13 +10,15 @@ AMAM is a simple datapack aiming to bring balance and peace for every smp server
 
 ![Logo](https://raw.githubusercontent.com/RTamaasP/AMAM_VillagersRestricted/refs/heads/main/README%20img/2a.png)
 
+# *This item doesn't generate in itself when you only install this datapack! Scroll down for details!!!*
+
 ## Core mechanics
 
 - Deletes every regular villager's offers, who don't have a specific tag
 - You have to consume a specific item in order to summon a villager WITH said specific tag
 - These villagers will not have their trades removed thus making them useful
-- There is no native way for obtaining the said item, because it would be hardcoded
-- . . . but stay tuned, I will soon write a separate datapack for it to be obtainable in survival
+- There is no native way for obtaining the said item, because it would be hardcoded, this datapack only provides the core mechanics
+- ~~. . . but stay tuned, I will soon write a separate datapack for it to be obtainable in survival~~ [Here's the datapack which makes the custom item generate in vanilla structures:](https://modrinth.com/datapack/amam-loottable/)  
 
 ## Benefits
 
