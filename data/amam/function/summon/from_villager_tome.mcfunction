@@ -1,7 +1,7 @@
 # summoning villagers with custom tag in order to preserve them from their inventory being reset
 summon minecraft:villager ~ ~1 ~ {Tags:[amam_origin]}
 
-tellraw @p {"text":"A new villager has been summoned!","color":"green"}
+tellraw @a {"text":"A new villager has been summoned!","color":"green"}
 
 # takes the summoner item away, it's only single use
 # clear @s minecraft:bread[minecraft:custom_data={amam_summon:1b}] 1
