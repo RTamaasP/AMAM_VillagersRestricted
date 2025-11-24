@@ -8,7 +8,7 @@ Well, you have just found the solution!
 
 AMAM is a simple datapack aiming to bring balance and peace for every smp server. Makes all villagers useless... Unless...
 
-![Logo](https://raw.githubusercontent.com/RTamaasP/AMAM_VillagersRestricted/refs/heads/main/README%20img/2a.png)
+![Logo](https://raw.githubusercontent.com/RTamaasP/AMAM_VillagersRestricted/refs/heads/main/README%20img/2b.png)
 
 # *This item doesn't generate in itself when you only install this datapack! Scroll down for details!!!*
 
@@ -18,7 +18,7 @@ AMAM is a simple datapack aiming to bring balance and peace for every smp server
 - You have to consume a specific item in order to summon a villager WITH said specific tag
 - These villagers will not have their trades removed thus making them useful
 - There is no native way for obtaining the said item, because it would be hardcoded, this datapack only provides the core mechanics
-- ~~. . . but stay tuned, I will soon write a separate datapack for it to be obtainable in survival~~ [Here's the datapack which makes the custom item generate in vanilla structures:](https://modrinth.com/datapack/amam-loottable/)  
+- ~~. . . but stay tuned, I will soon write a separate datapack for it to be obtainable in survival~~ [Here's the datapack which makes the custom item generate in vanilla structures](https://modrinth.com/datapack/amam-loottable/) (1.21.5 and above)
 
 ## Benefits
 
@@ -31,7 +31,7 @@ AMAM is a simple datapack aiming to bring balance and peace for every smp server
 - The item needed for summoning is `minecraft:bread` or `minecraft:enchanted_book` with the component `minecraft:custom_data={amam_summon:true}`. There is a command which gives you a fancy item with other components too but not anything else is checked besides the these two criteria listed. As long as your item meets these two conditions, it's good to go.
 - There are only 2 functions included and they are pretty self explanatory.
 
-![Logo](https://raw.githubusercontent.com/RTamaasP/AMAM_VillagersRestricted/refs/heads/main/README%20img/3a.png)
+![Logo](https://raw.githubusercontent.com/RTamaasP/AMAM_VillagersRestricted/refs/heads/main/README%20img/3b.png)
 
 The `give/villager_tome` will give an item which is usable for villager summoning. Again, this will have a bunch of extra stuff set which are not required to be present to fulfil the summoning's conditions. For versions below 1.21.5, you got the commands within the `give_old` folder. 
 
