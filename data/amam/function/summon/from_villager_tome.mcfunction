@@ -8,3 +8,4 @@ tellraw @a {"text":"A new villager has been summoned!","color":"green"}
 
 # if the user gets another summoner item, the triggering advancement has to be removed so they will be able to use that again
 advancement revoke @s only amam:villager_summon_with_bread_trigger
+advancement revoke @s only amam:villager_summon_with_enchanted_book_trigger

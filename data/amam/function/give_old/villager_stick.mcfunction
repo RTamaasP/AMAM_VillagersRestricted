@@ -1,0 +1,1 @@
+give @s bread[minecraft:custom_data={amam_summon:true},minecraft:food={nutrition:0,saturation:0,can_always_eat:true},minecraft:enchantment_glint_override=true,minecraft:custom_name='{"text":"Villager Stick","italic":false,"bold":true,"color":"gold","shadow_color":[0,0,0,1]}',minecraft:lore=['{"text":"In case you really ARE"}','{"text":"desperate to trade"}']]

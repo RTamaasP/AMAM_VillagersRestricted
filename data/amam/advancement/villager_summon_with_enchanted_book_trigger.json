@@ -1,0 +1,21 @@
+{
+    "criteria": {
+        "summon_trigger":{
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "items": [
+                        "minecraft:enchanted_book"
+                    ],
+                    "components": {
+                        "minecraft:custom_data": "{amam_summon:true}"
+                    }
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "amam:summon/from_villager_tome"
+    },
+    "parent": "minecraft:story/root"
+}

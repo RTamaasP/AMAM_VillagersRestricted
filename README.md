@@ -28,11 +28,11 @@ AMAM is a simple datapack aiming to bring balance and peace for every smp server
 
 ## For server admins
 
-- The item needed for summoning is `minecraft:bread` with the component `minecraft:custom_data={amam_summon:true}`. There is a command which gives you a fancy item with other components too but not anything else is checked besides the these two criteria listed. As long as your item meets these two conditions, it's good to go.
+- The item needed for summoning is `minecraft:bread` or `minecraft:enchanted_book` with the component `minecraft:custom_data={amam_summon:true}`. There is a command which gives you a fancy item with other components too but not anything else is checked besides the these two criteria listed. As long as your item meets these two conditions, it's good to go.
 - There are only 2 functions included and they are pretty self explanatory.
 
 ![Logo](https://raw.githubusercontent.com/RTamaasP/AMAM_VillagersRestricted/refs/heads/main/README%20img/3a.png)
 
-The `give/villager_tome` will give an item which is usable for villager summoning. Again, this will have a bunch of extra stuff set which are not required to be present to fulfil the summoning's conditions.
+The `give/villager_tome` will give an item which is usable for villager summoning. Again, this will have a bunch of extra stuff set which are not required to be present to fulfil the summoning's conditions. For versions below 1.21.5, you got the commands within the `give_old` folder. 
 
 The `summon/from_villager_tome` is the command that runs when the correct item is consumed. It summons a villager with the necessary tag. Yes, technically you can run this command without having the item but the command is not triggerable in survival without having and using the item.
