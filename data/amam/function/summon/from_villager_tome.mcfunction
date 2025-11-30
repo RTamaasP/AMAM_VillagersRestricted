@@ -1,5 +1,5 @@
 # summoning villagers with custom tag in order to preserve them from their inventory being reset
-summon minecraft:villager ~ ~1 ~ {Tags:[amam_origin]}
+summon minecraft:villager ~ ~1 ~ {Tags:[amam_origin],CanPickUpLoot:false}
 
 tellraw @a {"text":"A new villager has been summoned!","color":"green"}
 
